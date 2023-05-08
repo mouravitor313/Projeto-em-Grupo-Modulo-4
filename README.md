@@ -9,18 +9,20 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :open_file_folder: Arquivos ##
 
-* **Projeto Individual 1 - Módulo 4.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados trabalhados;
+* **[M4]_Projeto_em_Grupo.ipynb.py**: arquivo contendo os meios para geração do relatório, explicações das etapas e código para análise exploratória completa da equipe;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## :computer: Implantação ##
 
-O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1mFGP0FHfaQgOELY90s0pBHNfVIHPGyp-?usp=sharing).
+O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1sQmua9NJnxjGoTKhTbKub0tnlrN6gjrM#scrollTo=lxOgUGrOxcop-?usp=sharing).
 
 ---
 ## :construction: Construção ##
 
 * [Google Colab](https://colab.research.google.com/) - Plataforma Google Colaboratory (Colab);
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
+* [NumPy](https://numpy.org/) - Biblioteca NumPy;
+* [MatPlotLib](https://matplotlib.org/) - Biblioteca MatPlotLib;
 * [Python](https://www.python.org/) - Linguagem Python.
 
 ---
