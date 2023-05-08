@@ -15,7 +15,7 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :computer: Implantação ##
 
-O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/github/mouravitor313/Projeto-em-Grupo-Modulo-4/blob/main/%5BM4%5D_Projeto_em_Grupo.ipynb). As metodologias ágeis para gestão do projeto podem ser conferidas [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo).
+O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1sQmua9NJnxjGoTKhTbKub0tnlrN6gjrM). As metodologias ágeis para gestão do projeto podem ser conferidas [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo).
 
 ---
 ## :construction: Construção ##
