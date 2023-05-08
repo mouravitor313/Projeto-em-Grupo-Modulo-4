@@ -10,7 +10,7 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :open_file_folder: Arquivos ##
 
-* **[M4]_Projeto_em_Grupo.ipynb.py**: arquivo contendo os meios para geração do relatório, explicações das etapas e código para análise exploratória completa da equipe;
+* **[M4]_Projeto_em_Grupo.ipynb.py**: arquivo contendo os meios para geração do relatório, explicações das etapas e código para análise exploratória completa feita pela equipe;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## :computer: Implantação ##
