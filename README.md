@@ -5,7 +5,8 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :pencil2: Contexto ##
 
-> Uma determinada loja deseja produzir relatórios semanais com ganhos e despesas. O gerente da loja te contratou para gerar um relatório de uma semana para mostrar ao dono da loja como a análise dos dados pode ser útil para eles. Para isso, ele te enviou uma tabela de exemplo (está presente no arquivo.py) das despesas de uma semana. Além disso, ele informou que os ganhos não estão nessa planilha, mas que ele possui a seguinte lista: 2200, 2420.50, 3391, 5322, 4898.50, 4200, 3893 respectivos aos dias da semana. Ele te deixou bem livre para incluir no relatório as estatísticas que desejar, mas o relatório deve conter dados referentes à soma, média e lucros em cima dos ganhos e das despesas registrados.
+> Sua equipe foi escalada pela Agência Nacional de Petróleo e Gás Natural e Biocombustíveis (ANP) para realizar uma análise exploratória relacionada à série histórica de preço de venda da gasolina e do etanol. ANP é um centro de referência em dados e informações sobre a indústria de petróleo e gás natural.
+> Serão utilizados os arquivos dos dois últimos meses registrados: para o escopo e prazos desse projeto, serão novembro/2022 e dezembro/2022 (Etanol Hidratado + Gasolina C) contendo a série histórica dos preços da gasolina e do etanol em todo o Brasil. O cliente deseja responder uma série de questionamentos (detalhados no Colab), mas a equipe tem liberdade para acrescentar outas indagações estratégicas complementares. 
 ---
 ## :open_file_folder: Arquivos ##
 
