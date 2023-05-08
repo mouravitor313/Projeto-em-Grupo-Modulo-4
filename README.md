@@ -15,7 +15,7 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :computer: Implantação ##
 
-O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1sQmua9NJnxjGoTKhTbKub0tnlrN6gjrM#scrollTo=lxOgUGrOxcop-?usp=sharing).
+O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/github/mouravitor313/Projeto-em-Grupo-Modulo-4/blob/main/%5BM4%5D_Projeto_em_Grupo.ipynb). As metodologias ágeis para gestão do projeto podem ser conferidas [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo).
 
 ---
 ## :construction: Construção ##
@@ -24,11 +24,15 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
 * [NumPy](https://numpy.org/) - Biblioteca NumPy;
 * [MatPlotLib](https://matplotlib.org/) - Biblioteca MatPlotLib;
-* [Python](https://www.python.org/) - Linguagem Python.
+* [Python](https://www.python.org/) - Linguagem Python;
+* [Trello](https://trello.com/) - Plataforma Trello.
 
 ---
 ## :busts_in_silhouette: Autoria ##
 
-Criado por [Douglas Klem](https://gist.github.com/KlemDoug). :space_invader: :alien: :sparkling_heart: 
+:alien::coffee: [Douglas Klem](https://gist.github.com/KlemDoug);
+:grin:[Lenilson dos Reis];
+:smirk:[Lorhan Costa];
+:sunglasses:[Vítor Moura].
 
 ---
