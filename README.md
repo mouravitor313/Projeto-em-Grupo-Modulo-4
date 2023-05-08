@@ -33,6 +33,6 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 :alien::coffee: [Douglas Klem](https://gist.github.com/KlemDoug);
 :grin:[Lenilson dos Reis];
 :smirk:[Lorhan Costa];
-:sunglasses:[Vítor Moura].
+:sunglasses:[Vítor Moura](https://gist.github.com/mouravitor313).
 
 ---
