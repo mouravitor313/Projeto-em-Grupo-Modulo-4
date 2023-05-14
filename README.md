@@ -30,9 +30,7 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 ---
 ## :busts_in_silhouette: Autoria ##
 
-:alien::coffee: [Douglas Klem](https://gist.github.com/KlemDoug);
-:grin:[Lenilson dos Reis];
-:smirk:[Lorhan Costa];
-:sunglasses:[Vítor Moura](https://gist.github.com/mouravitor313).
+:alien::coffee: [Douglas Klem](https://gist.github.com/KlemDoug) 
+:sunglasses::smirk:[Vítor Moura](https://gist.github.com/mouravitor313).
 
 ---
