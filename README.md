@@ -15,7 +15,7 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ---
 ## :computer: Implantação ##
 
-O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1sQmua9NJnxjGoTKhTbKub0tnlrN6gjrM). As metodologias ágeis para gestão do projeto podem ser conferidas [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo).
+O projeto para operar a geração do relatório na sua máquina local pode também ser acessado por [este link](https://colab.research.google.com/drive/1sQmua9NJnxjGoTKhTbKub0tnlrN6gjrM). As metodologias ágeis para gestão do projeto podem ser conferidas [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo). A apresentação dos slides pode ser vista [aqui](https://trello.com/b/aVQSH4jz/m4projetoemgrupo).
 
 ---
 ## :construction: Construção ##
@@ -33,6 +33,9 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 ## :busts_in_silhouette: Autoria ##
 
 :alien::coffee: [Douglas Klem](https://gist.github.com/KlemDoug) 
-:sunglasses::smirk:[Vítor Moura](https://gist.github.com/mouravitor313).
+:zap::gem: [Lenilson Reis](https://gist.github.com/lenilsonreis00) 
+:crown::soccer:[Lorhan Costa](https://gist.github.com/Lorhanzin)
+:sunglasses::smirk:[Vítor Moura](https://gist.github.com/mouravitor313)
+
 
 ---
