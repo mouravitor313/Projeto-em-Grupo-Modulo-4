@@ -24,7 +24,6 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
 * [NumPy](https://numpy.org/) - Biblioteca NumPy;
 * [MatPlotLib](https://matplotlib.org/) - Biblioteca MatPlotLib;
-* [SKLearn](https://scikit-learn.org/stable/) - Biblioteca SciKit Learn;
 * [Seaborn](https://seaborn.pydata.org/) - Biblioteca Seaborn;
 * [Python](https://www.python.org/) - Linguagem Python;
 * [Trello](https://trello.com/) - Plataforma Trello.
