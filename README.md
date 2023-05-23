@@ -11,6 +11,7 @@ Este repositório contém os arquivos utilizados para disponibilizar a análise 
 ## :open_file_folder: Arquivos ##
 
 * **[M4]_Projeto_em_Grupo.ipynb.py**: arquivo contendo os meios para geração do relatório, explicações das etapas e código para análise exploratória completa feita pela equipe;
+* **Presents PGM4.pdf**: arquivo contendo uma cópia da apresentação de slides utilizada como apoio à exposição do projeto;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## :computer: Implantação ##
